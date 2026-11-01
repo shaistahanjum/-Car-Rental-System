@@ -1,5 +1,4 @@
 # -Car-Rental-System
-A simple Car Rental System built using Core Java and OOP concepts. It allows users to view available cars, rent and return cars, manage customer details, and calculate rental costs through a menu-driven interface.
 🚗 Car Rental System
 
 I built this Car Rental System using Core Java to practice object-oriented programming and understand how a real-world rental application works. The project provides a simple, menu-driven interface where users can explore available cars, rent a car, return it, and view active rentals.
