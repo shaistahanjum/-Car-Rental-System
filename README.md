@@ -60,4 +60,5 @@ Future Improvements
 ---
 
 Project Type: Java Console Application
+
 Purpose: Learning and practicing Core Java and Object-Oriented Programming.
